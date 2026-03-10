@@ -40,11 +40,6 @@
             </plugin>
         </plugins>
     </build>
-    <distributionManagement>
-    <repository>
-        <id>nexus-releases</id>
-        <url>http://16.171.253.61:8081/repository/java-packages/</url>
-    </repository>
-</distributionManagement>
+
 </project>
 
